@@ -23,7 +23,7 @@ The majority of my PowerShell is in private repositories because I need to make 
 - jw.LogFileArchive
 -- Used to move logs to an archive location, and eventually delete them, based on some predefined criteria.
 - jw.MSOnline
--- Originally created to make it easy to connect to Microsoft Online Services/Office 365 (Connect-JwMsolSvc) and forcing a sync for Azure AD Connect (Sync-AzureAD), but I added some basic user, group, and license management.
+-- Originally created to make it easy to connect to Microsoft Online Services/Office 365 (Connect-MsolSvc) and forcing a sync for Azure AD Connect (Sync-AzureAD), but I added some basic user, group, and license management.
 - jw.net
 -- Basic network and DNS management and info gathering.
 - jw.EmployeeTerm
